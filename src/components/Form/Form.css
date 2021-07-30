@@ -1,0 +1,93 @@
+.main{
+    background-image: url("./ciudad.jpg");
+    height: 125vh;
+    background-size: cover;
+    background-position:center;
+    background-repeat:repeat-y; 
+
+    }
+
+.main h2{
+    color: #fff;
+    padding:1vw;
+    font-size:3vw;
+    text-align:center;
+}
+
+.container-form{
+    display:flex;
+    background-color: rgba(255, 255, 255, 0.815);
+    width: 60vw;
+    border-radius: 2vw;
+    padding:3vw;
+    margin:0vw 16vw;
+}
+
+.text{
+    width:20vw;
+    padding: 3vw;
+    background-color:rgba(255, 166, 0, 0.596);
+    font-size:1.3vw;
+    text-align: center;
+}
+
+.form{
+    width:75vw;
+    background-color: rgba(127, 197, 255, 0.719);
+    padding: 2vw 3vw;
+}
+
+.form h3{
+    font-size:1.3vw;
+    padding:1vw 0vw 0.7vw 0vw;
+}
+
+.form p{
+    font-size:1.2vw;
+}
+
+.contacto{
+    display: flex;
+}
+
+.contacto input{
+    width: 19vw;
+   
+}
+
+.titulo input{
+    width: 39vw;
+   
+}
+
+.nombre{
+margin-right: 0.5vw;
+}
+
+::placeholder{
+    font-size:1vw;
+}
+
+.form select{
+    width: 39vw;
+    font-size:1vw;
+}
+
+.form textarea{
+    width: 39vw;
+    height:4vw;
+}
+
+.form button{
+    background-color: rgb(0, 60, 255);
+    margin-top: 0.5vw;
+    border-radius: 0.5vw;
+    padding:0.5vw;
+    color:#fff;
+    font-size:1vw;
+    width: 10vw;
+    cursor: pointer;
+}
+
+
+
