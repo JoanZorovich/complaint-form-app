@@ -57,9 +57,8 @@ __IMPORTANTE__: Para poder utilizar esta API es necesario crear una cuenta en FI
 ## Construido con 🛠️
 
 - [ ] React
-- [ ] Redux
-- [ ] Express
-- [ ] Sequelize - Postgres
+- [ ] Firebase
+
 
 
 ## Licencia 📄
