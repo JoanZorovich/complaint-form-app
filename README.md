@@ -1,7 +1,7 @@
 # Complaint Form APP
 
 En esta aplicación encontrarás un formulario por medio del cual se realizan reclamos. Puedes añadir información detallada e incluso una foto si así lo deseas.
-Tambien en la sección "VER RECLAMOS", se podran observar todos esto de una forma sencilla, con la posibilidad de editarlos o borrarlos.
+También en la sección "VER RECLAMOS", se podran observar todos esto de una forma sencilla, con la posibilidad de editarlos o borrarlos.
 
 ![Capture](https://user-images.githubusercontent.com/74875335/127667153-ee3460e4-d9f4-4d93-848e-652e7fe0b6c5.PNG)
 
